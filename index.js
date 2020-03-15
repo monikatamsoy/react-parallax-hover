@@ -240,14 +240,14 @@ ParallaxHover.defaultProps = {
 };
 
 ParallaxHover.propTypes = {
-  children: PropTypes.any,
-  width: PropTypes.number.isRequired,
-  height: PropTypes.number.isRequired,
+  // children: PropTypes.any,
+  // width: PropTypes.number.isRequired,
+  // height: PropTypes.number.isRequired,
 
   // Optional Proptypes
-  shadow: PropTypes.number,
-  scale: PropTypes.number,
-  rotation: PropTypes.number,
-  shine: PropTypes.number,
-  borderRadius: PropTypes.number,
+  // shadow: PropTypes.number,
+  // scale: PropTypes.number,
+  // rotation: PropTypes.number,
+  // shine: PropTypes.number,
+  // borderRadius: PropTypes.number,
 };
